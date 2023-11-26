@@ -1,0 +1,32 @@
+##ignore this file##
+/target/
+/.idea/
+/.settings/
+/.vscode/
+/bin/
+
+.classpath
+.project
+.settings
+.idea
+ ##filter databfile、sln file##
+*.mdb
+*.ldb
+*.sln
+##class file##
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# compression file
+*.dmg
+*.gz
+*.jar
+*.tar
+*.via
+*.tmp
+*.err
+*.log
+*.iml
