@@ -1,0 +1,268 @@
+{
+"res":0,
+"other":[
+	{	"name":"タイトルへ戻る",
+		"link":"--title--",
+		"tree":"-"
+	},
+	{	"name":"最新情報/攻略情報",
+		"link":">1",
+		"tree":"-"
+	},
+	{	"name":"本日のゲリラ情報！",
+		"link":"!ihttps://ssl.padsv.gungho.jp/time_table/index.php?pid=@ID@&sid=@SI@",
+		"tree":"-P" 
+	},
+	{	"name":"ログインスタンプ",
+		"link":">6",
+		"tree":"-"
+	},
+	{	"name":"大感謝祭！特別ログインスタンプ(11月)",
+		"link":"!ihttps://ssl-ht.padsv.gungho.jp/login_stamp/reward.php?pid=@ID@&sid=@SI@&id=3",
+		"tree":"6"
+	},
+	{	"name":"「チェンソーマン」コラボ",
+		"link":"!ihttps://ssl-ht.padsv.gungho.jp/login_stamp/reward.php?pid=@ID@&sid=@SI@&id=7",
+		"tree":"6"
+	},
+	{	"name":"^00E5CC^ユーザー情報^FFFFFF^",
+		"link":">2C",
+		"tree":"-"
+	},
+	{	"name":"モンスター図鑑",
+		"link":"--book--",
+		"tree":"-"
+	},
+	{	"name":"^FFFF00^モンスター検索^FFFFFF^",
+		"link":"!ihttps://ssl.padsv.gungho.jp/monster/search.php?pid=@ID@&sid=@SI@",
+		"tree":"-P"
+	},
+	{	"name":"オプション",
+		"link":"--opt--",
+		"tree":"-"
+	},
+	{	"name":"^FFFF00^機種変更^FFFFFF^",
+		"link":">3",
+		"tree":"-"
+	},
+	{	"name":"^FFFF00^画像データの軽量化^FFFFFF^",
+		"link":"--delz--",
+		"tree":"-P"
+	},
+	{	"name":"^FFFF00^チュートリアル^FFFFFF^",
+		"link":"https://pad.gungho.jp/member/tutorial/",
+		"tree":"-"
+	},
+	{	"name":"ヘルプ",
+		"link":"--help--",
+		"tree":"-"
+	},
+	{	"name":"サポート",
+		"link":"--supp--",
+		"tree":"-"
+	},
+	{	"name":"利用規約/プライバシー・ポリシー",
+		"link":">4",
+		"tree":"-"
+	},
+	{	"name":"コピーライト/クレジット等",
+		"link":">5",
+		"tree":"-"
+	},
+	{	"name":"データインストール",
+		"link":"--datainstall--",
+		"tree":"-"
+	},
+	{	"name":"画面表示設定",
+		"link":"--dispset--",
+		"tree":"-"
+	},
+	{	"name":"Official Facebook (beta)",
+		"link":"http://facebook.com/PuzzleAndDragonsHKTW",
+		"tree":"1"
+	},
+	{	"name":"GungHo Web Site",
+		"link":"https://pad.gungho.jp/hktw/pad/",
+		"tree":"1"
+	},
+	{	"name":"^qo^アカウント削除",
+		"link":"--delacc--",
+		"tree":"-"
+	},
+	{	"name":"プレイ履歴",
+		"link":"!ihttps://ssl-ht.padsv.gungho.jp/player_info/index.php?pid=@ID@&sid=@SI@",
+		"tree":"2P"
+	},
+	{	"name":"購入履歴",
+		"link":"!ihttps://ssl.padsv.gungho.jp/index.php?pid=@ID@&sid=@SI@",
+		"tree":"2"
+	},
+	{	"name":"名前を変える",
+		"link":"--name--",
+		"tree":"2"
+	},
+	{	"name":"ユーザー設定",
+		"link":"--uset--",
+		"tree":"2"
+	},
+	{	"name":"王冠設定",
+		"link":"--chcr--",
+		"tree":"2P" 
+	},
+	{	"name":"称号設定",
+		"link":"--chtt--",
+		"tree":"2P"
+	},
+	{	"name":"ゲームデータ引き継ぎ",
+		"link":"--setauthdata--",
+		"tree":"2"
+	},
+	{	"name":"機種変更ガイド",
+		"link":"ihttps://ssl.padsv.gungho.jp/check_out/guide.html",
+		"tree":"3"
+	},
+	{	"name":"機種変コード発行",
+		"link":"!ihttps://ssl.padsv.gungho.jp/check_out/index.php?pid=@ID@&sid=@SI@",
+		"tree":"3"
+	},
+	{	"name":"利用規約/プライバシー・ポリシー",
+		"link":"ihttps://pad.gungho.jp/member/app/ht_kiyaku_bunki.html",
+		"tree":"4"
+	},
+	{	"name":"コピーライト/謝辞",
+		"link":"ihttps://pad.gungho.jp/member/app/g_copyright_and.html",
+		"tree":"5"
+	},
+	{	"name":"クレジット",
+		"link":"ihttps://pad.gungho.jp/member/app/g_credit_and.html",
+		"tree":"5"
+	}
+],
+"fixlink":[
+	{	"tag":"transCode",
+		"link":"ihttps://ssl.padsv.gungho.jp/check_out/guide.html"
+	},
+	{	"tag":"takeOver",
+		"link":"ihttps://ssl.padsv.gungho.jp/check_out/guide_google.html"
+	},
+	{	"tag":"mps",
+		"link":"https://pad.gungho.jp/member/multi_dungeon/151218.html" 
+        },
+	{	"tag":"raidtext",
+		"link":"全ユーザーのキングたまドラなどの獲得数で報酬GET！\n|"
+	},
+	{	"tag":"raidlink",
+		"link":"ihttps://pad.gungho.jp/member/event/210507_training.html#add_no1"
+	},
+	{	"tag":"mt3",
+		"link":"ihttps://pad.gungho.jp/member/multi_dungeon/three.html"
+	},
+	{	"tag":"mt2",
+		"link":"ihttps://pad.gungho.jp/member/multi_dungeon/151218.html"
+	},
+        {       "tag":"td_link",
+                "link":"ihttps://pad.gungho.jp/member/trade/index.html" 
+        },
+        {       "tag":"td_hist",
+                "link":"ihttps://ssl.padsv.gungho.jp/trade_history/index.php?pid=@ID@&sid=@SI@" 
+	},
+	{	"tag":"raidstat",
+		"link":"ihttps://ssl.padsv.gungho.jp/raidcounter/index.php?pid=@ID@&sid=@SI@"
+	},
+	{	"tag":"gachaweb",
+		"link":"ihttps://ssl-ht.padsv.gungho.jp/gacha_lineup/prop.php?gtype=@GT@&grow=@GR@&pid=@ID@&sid=@SI@"
+	},
+	{	"tag":"rkreward",
+		"link":"ihttps://ssl-ht.padsv.gungho.jp/ranking/reward.php?dungeon_id=@CI@" 
+	},
+	{	"tag":"infoweb",
+		"link":"!ihttps://ssl.padsv.gungho.jp/info_branch/index.php?pid=@ID@&sid=@SI@"
+	},
+	{	"tag":"subsdeta",
+		"link":"ihttps://pad.gungho.jp/member/pdpass/index.html" 
+	},
+	{	"tag":"subssche",
+		"link":"ihttps://ssl.padsv.gungho.jp/subscription/index.php?pid=@ID@&sid=@SI@" 
+	},
+	{	"tag":"subsnote",
+		"link":"ihttps://pad.gungho.jp/member/pdpass/index.html#notice" 
+	},
+	{	"tag":"subseula",
+		"link":"ihttps://mobile.gungho.jp/reg/rules/terms.html" 
+	},
+	{	"tag":"subspriv",
+		"link":"ihttps://mobile.gungho.jp/reg/pad/privacy/index.html" 
+	},
+	{	"tag":"subscanc",
+		"link":"https://play.google.com/store/account/subscriptions" 
+	},
+	{	"tag":"subsaccthld",
+		"link":"https://play.google.com/store/account/subscriptions?sku=jp.gungho.android.padht.padmonthly_001&package=jp.gungho.android.padHT" 
+	},
+	{	"tag":"subsfree",
+		"link":"「パズドラパス」は、^qy^月額 HK$73.00・NT$310.00^qw^で、\n以下の特典が受けられる、\n自動更新の月額有料サービスです。\n\n■特典■\n1.毎日特別な専用ダンジョン配信！\n　^qy^魔法石^qw^や^qy^ゴッドフェスガチャ^qw^などの報酬ゲット！\n　LvつきのダンジョンはクリアするとLvが上がり、\n　ダンジョン報酬の内容がグレードアップ！\n2.編成できるチームが ^qy^5個^qw^ 増加！\n3.ダンジョンクリア時のランク経験値が ^qy^5％^qw^ 増加！\n　（協力プレイのダンジョンは対象外）\n4.^qy^降臨モンスター^qw^や^qy^進化素材^qw^がいつでも獲得できる！\n　専用ダンジョンで好きなモンスターをゲット！\n5. バッジ「^qy^コスト∞^qw^」に「^qy^操作時間3秒延長^qw^」追加！\n\n■1週間無料トライアル■\n^qy^1週間「パズドラパス」を無料でお試しいただけます。\n※無料トライアル期間だけで終了する場合は、有効期間\n　終了の24時間以上前までに解約する必要があります。\n　有効期間表示の「あと2日」を目安にしてください。\n※これ以降に解約した場合、自動更新され月額料金が\n　発生します。\n※パズドラパスの無料トライアルは、\n　1つのパズル&ドラゴンズのIDにつき1回のみです。\n※一度でもパズドラパスを利用した\n　プラットフォームIDでは、無料トライアルは\n　適用されません。^qw^\n\n^qo^■ ご注意 ■^qw^\n・パズドラパスは、自動更新の月額有料サービスです。\n　購入してから1ヶ月有効です。\n・有効期間終了の24時間以上前までに解約しないと\n　自動更新され、月額料金が発生します。\n・解約した場合、有効期間終了の翌日3:59まで\n　特典サービスが受けられます。\n・同じプラットフォームIDで契約できるパズドラパスは\n　1つのパズル&ドラゴンズのIDだけです。\n・異なるプラットフォームでパズドラパスを購入\n　していた場合、以前の契約を解除してから\n　新たに購入してください。自動で解約はされません。\n・支払いや解約、引き継ぎについては「詳細」ボタン\n　からご確認ください。\n・「利用規約」「プライバシー・ポリシー」は下部の\n　それぞれのボタンからご確認ください。\n\n^qo^■ iOSの方へ ■^qw^\n・パズドラパスの決済は、ご利用のApple IDに\n　請求されます。\n・パズドラパスの登録・管理・解約はApp Storeの\n　アカウント設定から行うことができます。\n\n　[App Store]アプリ画面右上[人のアイコン]の\n　アカウントをタップ\n　⇒サブスクリプション-［有効欄］\n　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　⇒［登録をキャンセル］をタップして解約\n\n※ご利用のOSのバージョンによって上記が表示されない\n　場合には、以下手順からご確認ください。\n\n　[App Store]アプリ[おすすめ]タブの最下部から\n　[AppleID]をタップ\n　　L 画面右上[人のアイコン] - [AppleID]をタップ\n　　⇒［Apple IDを表示］-［登録］\n　　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　　⇒［登録をキャンセル］をタップして解約"
+	},
+	{	"tag":"subsinfo",
+		"link":"「パズドラパス」は、^qy^月額 HK$73.00・NT$310.00^qw^で、\n以下の特典が受けられる、\n自動更新の月額有料サービスです。\n\n■特典■\n1.毎日特別な専用ダンジョン配信！\n　^qy^魔法石^qw^や^qy^ゴッドフェスガチャ^qw^などの報酬ゲット！\n　LvつきのダンジョンはクリアするとLvが上がり、\n　ダンジョン報酬の内容がグレードアップ！\n2.編成できるチームが ^qy^5個^qw^ 増加！\n3.ダンジョンクリア時のランク経験値が ^qy^5％^qw^ 増加！\n　（協力プレイのダンジョンは対象外）\n4.^qy^降臨モンスター^qw^や^qy^進化素材^qw^がいつでも獲得できる！\n　専用ダンジョンで好きなモンスターをゲット！\n5. バッジ「^qy^コスト∞^qw^」に「^qy^操作時間3秒延長^qw^」追加！\n\n^qo^■ ご注意 ■^qw^\n・パズドラパスは、自動更新の月額有料サービスです。\n　購入してから1ヶ月有効です。\n・有効期間終了の24時間以上前までに解約しないと\n　自動更新され、月額料金が発生します。\n　有効期間表示の「あと2日」を目安にしてください。\n・解約した場合、有効期間終了の翌日3:59まで\n　特典サービスが受けられます。\n・同じプラットフォームIDで契約できるパズドラパスは\n　1つのパズル&ドラゴンズのIDだけです。\n・異なるプラットフォームでパズドラパスを購入\n　していた場合、以前の契約を解除してから\n　新たに購入してください。自動で解約はされません。\n・支払いや解約、引き継ぎについては「詳細」ボタン\n　からご確認ください。\n・「利用規約」「プライバシー・ポリシー」は下部の\n　それぞれのボタンからご確認ください。\n\n^qo^■ iOSの方へ ■^qw^\n・パズドラパスの決済は、ご利用のApple IDに\n　請求されます。\n・パズドラパスの登録・管理・解約はApp Storeの\n　アカウント設定から行うことができます。\n\n　[App Store]アプリ画面右上[人のアイコン]の\n　アカウントをタップ\n　⇒サブスクリプション-［有効欄］\n　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　⇒［登録をキャンセル］をタップして解約\n\n※ご利用のOSのバージョンによって上記が表示されない\n　場合には、以下手順からご確認ください。\n\n　[App Store]アプリ[おすすめ]タブの最下部から\n　[AppleID]をタップ\n　　L 画面右上[人のアイコン] - [AppleID]をタップ\n　　⇒［Apple IDを表示］-［登録］\n　　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　　⇒［登録をキャンセル］をタップして解約"
+	},
+	{	"tag":"subsfreeb",
+		"link":"^qy^無料トライアル中！^qw^\n有効期間:@limit まで (あと @left) \n\n^qy^■【重要】■\n有効期間終了の24時間以上前までに解約しないと、\n自動更新され、お住まいの地域によって、\n下記月額料金が発生します。\n\n・香港:HK$73.00\n・台湾:NT$310.00\n\n有効期間表示の「あと2日」を目安にしてください。\nこれ以降に解約した場合、自動更新され月額料金が\n発生します。\nパズドラパスの無料トライアルは、\n1つのパズル&ドラゴンズのIDにつき1回のみです。\n一度でもパズドラパスを利用した\nプラットフォームIDでは、無料トライアルは\n適用されません。^qw^\n\n^qo^■ ご注意 ■^qw^\n・パズドラパスは、自動更新の月額有料サービスです。\n　購入してから1ヶ月有効です。\n・有効期間終了の24時間以上前までに解約しないと\n　自動更新され、月額料金が発生します。\n・解約した場合、有効期間終了の翌日3:59まで\n　特典サービスが受けられます。\n・同じプラットフォームIDで契約できるパズドラパスは\n　1つのパズル&ドラゴンズのIDだけです。\n・異なるプラットフォームでパズドラパスを購入\n　していた場合、以前の契約を解除してから\n　新たに購入してください。自動で解約はされません。\n・支払いや解約、引き継ぎについては「詳細」ボタン\n　からご確認ください。\n・「利用規約」「プライバシー・ポリシー」は下部の\n　それぞれのボタンからご確認ください。\n\n^qo^■ iOSの方へ ■^qw^\n・パズドラパスの決済は、ご利用のApple IDに\n　請求されます。\n・パズドラパスの登録・管理・解約はApp Storeの\n　アカウント設定から行うことができます。\n\n　[App Store]アプリ画面右上[人のアイコン]の\n　アカウントをタップ\n　⇒サブスクリプション-［有効欄］\n　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　⇒［登録をキャンセル］をタップして解約\n\n※ご利用のOSのバージョンによって上記が表示されない\n　場合には、以下手順からご確認ください。\n\n　[App Store]アプリ[おすすめ]タブの最下部から\n　[AppleID]をタップ\n　　L 画面右上[人のアイコン] - [AppleID]をタップ\n　　⇒［Apple IDを表示］-［登録］\n　　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　　⇒［登録をキャンセル］をタップして解約"
+	},
+	{	"tag":"subsinfob",
+		"link":"有効期間:@limit まで (あと @left)\n\n^qy^■【重要】■\n有効期間終了の24時間以上前までに解約しないと、\n自動更新され、お住まいの地域によって、\n下記月額料金が発生します。\n\n・香港:HK$73.00\n・台湾:NT$310.00\n\n有効期間表示の「あと2日」を目安にしてください。\nこれ以降に解約した場合、自動更新され月額料金が\n発生します。\nパズドラパスの無料トライアルは、\n1つのパズル&ドラゴンズのIDにつき1回のみです。\n一度でもパズドラパスを利用した\nプラットフォームIDでは、無料トライアルは\n適用されません。^qw^\n\n^qo^■ ご注意 ■^qw^\n・パズドラパスは、自動更新の月額有料サービスです。\n　購入してから1ヶ月有効です。\n・有効期間終了の24時間以上前までに解約しないと\n　自動更新され、月額料金が発生します。\n・解約した場合、有効期間終了の翌日3:59まで\n　特典サービスが受けられます。\n・同じプラットフォームIDで契約できるパズドラパスは\n　1つのパズル&ドラゴンズのIDだけです。\n・異なるプラットフォームでパズドラパスを購入\n　していた場合、以前の契約を解除してから\n　新たに購入してください。自動で解約はされません。\n・支払いや解約、引き継ぎについては「詳細」ボタン\n　からご確認ください。\n・「利用規約」「プライバシー・ポリシー」は下部の\n　それぞれのボタンからご確認ください。\n\n^qo^■ iOSの方へ ■^qw^\n・パズドラパスの決済は、ご利用のApple IDに\n　請求されます。\n・パズドラパスの登録・管理・解約はApp Storeの\n　アカウント設定から行うことができます。\n\n　[App Store]アプリ画面右上[人のアイコン]の\n　アカウントをタップ\n　⇒サブスクリプション-［有効欄］\n　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　⇒［登録をキャンセル］をタップして解約\n\n※ご利用のOSのバージョンによって上記が表示されない\n　場合には、以下手順からご確認ください。\n\n　[App Store]アプリ[おすすめ]タブの最下部から\n　[AppleID]をタップ\n　　L 画面右上[人のアイコン] - [AppleID]をタップ\n　　⇒［Apple IDを表示］-［登録］\n　　⇒［パズル&ドラゴンズ］-［パズドラパス］\n　　⇒［登録をキャンセル］をタップして解約"
+	},
+	{	"tag":"cmmboxb",
+		"link":"&=動画視聴でモンスターBOXを1個拡張できます。\n\n^qy^※動画視聴権は、毎日4:00に回復します。\n※動画再生時のサウンド音量にご注意ください。^qw^\n\n動画を視聴しますか？"
+	},
+	{	"tag":"cmstab",
+		"link":"&=動画視聴でスタミナを全回復させることができます。\n\n^qy^※動画視聴権は、毎日4:00に回復します。\n※動画再生時のサウンド音量にご注意ください。^qw^\n\n動画を視聴しますか？" 
+	},
+	{	"tag":"mt8",
+		"link":"ihttps://pad.gungho.jp/member/multi_dungeon/8battle/info.html"
+	},
+	{	"tag":"mpbinvmsg",
+		"link":"最大8人のプレイヤーで\n対戦するダンジョンです。\n\nβ版の配信は終了しました。\n正式実装までおまちください。"
+	},
+	{	"tag":"mpbestat",
+		"link":"ihttps://ssl.padsv.gungho.jp/vs_event/reward.php?pid=@ID@&sid=@SI@|報酬/イベント詳細"
+	},
+	{	"tag":"mt4",
+		"link":"ihttps://pad.gungho.jp/member/multi_dungeon/4battle/" 
+	},
+	{	"tag":"vs4invmsg",
+		"link":"「4人でガチ【対戦】」のβ版の配信は終了しました。\n正式版実装までおまちください。" 
+	},
+	{	"tag":"vs4sstat",
+		"link":"!ihttps://ssl.padsv.gungho.jp/vs_season/reward.php?pid=@ID@&sid=@SI@|シーズン詳細" 
+	},
+	{	"tag":"edunmp4",
+		"link":"https://dl.padsv.gungho.jp/movies/pad%d.mp4"
+	}
+],
+"idbut":{
+"name":"パズドラのレビューをしてね！",
+"link":"market://details?id=jp.gungho.padht" 
+},
+"banner":[
+	{	"start":"120101000000",
+		"end":"370101000000",
+		"height":64,
+		"link":"https://dl.padsv.gungho.jp/banner_ht_adr.html"
+	},
+	{	"start":"231101000000",
+		"end":"231110095959",
+		"height":49,
+		"link":"="
+	},
+	{	"start":"231127100000",
+		"end":"231204095959",
+		"height":134,
+		"link":"="
+	},
+	{	"start":"231204100000",
+		"end":"231211095959",
+		"height":135,
+		"link":"="
+	}
+]
+}

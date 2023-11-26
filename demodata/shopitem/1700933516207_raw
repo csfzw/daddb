@@ -1,0 +1,8 @@
+GET /api.php?action=shop_item&pid=431415724&sid=NcyQciyhLCgIKyoyitMamG1MkuRxEjARgZv_DXUX&r=2111&m=0&key=24EF22C2CC HTTP/1.1
+User-Agent: GunghoPuzzleAndDungeon
+Accept-Charset: utf-8
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+Host: api-ht-adr.padsv.gungho.jp
+Connection: Keep-Alive
+
