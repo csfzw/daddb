@@ -4,5 +4,4 @@ Accept-Charset: utf-8
 Content-Type: application/x-www-form-urlencoded
 Accept-Encoding: gzip
 Host: api-ht-adr.padsv.gungho.jp
-Connection: Keep-Alive
 
