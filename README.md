@@ -24,10 +24,3 @@
     
     副本掉落解析
     
-技术栈:
-  
-    前段:Vue3 Html5 css3 sqllite3
-  
-    后端:java8 springboot2 sqllite3
-  
-    其他:uniapp...
